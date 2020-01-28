@@ -1,0 +1,1111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="6" failed="1" ignored="0" total="37" passed="30">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="795485" started-at="2020-01-25T17:20:21 IST" finished-at="2020-01-25T17:33:36 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="795485" started-at="2020-01-25T17:20:21 IST" finished-at="2020-01-25T17:33:36 IST">
+      <class name="com.qa.google.testcases.playMenuPageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.google.testcases.playMenuPageTest@3712b94]" name="setup" is-config="true" duration-ms="11070" started-at="2020-01-25T17:24:51 IST" finished-at="2020-01-25T17:25:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyTitleTest()[pri:1, instance:com.qa.google.testcases.playMenuPageTest@3712b94]" name="verifyTitleTest" duration-ms="16" started-at="2020-01-25T17:25:02 IST" finished-at="2020-01-25T17:25:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.google.testcases.playMenuPageTest@3712b94]" name="tearDown" is-config="true" duration-ms="602" started-at="2020-01-25T17:25:02 IST" finished-at="2020-01-25T17:25:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.google.testcases.playMenuPageTest@3712b94]" name="setup" is-config="true" duration-ms="11410" started-at="2020-01-25T17:25:02 IST" finished-at="2020-01-25T17:25:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="checkYoutubePage()[pri:2, instance:com.qa.google.testcases.playMenuPageTest@3712b94]" name="checkYoutubePage" duration-ms="109" started-at="2020-01-25T17:25:14 IST" finished-at="2020-01-25T17:25:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkYoutubePage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.google.testcases.playMenuPageTest@3712b94]" name="tearDown" is-config="true" duration-ms="613" started-at="2020-01-25T17:25:14 IST" finished-at="2020-01-25T17:25:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.google.testcases.playMenuPageTest@3712b94]" name="setup" is-config="true" duration-ms="10620" started-at="2020-01-25T17:25:15 IST" finished-at="2020-01-25T17:25:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="checkYouTubeloginTest()[pri:3, instance:com.qa.google.testcases.playMenuPageTest@3712b94]" name="checkYouTubeloginTest" duration-ms="13365" started-at="2020-01-25T17:25:25 IST" finished-at="2020-01-25T17:25:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkYouTubeloginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.google.testcases.playMenuPageTest@3712b94]" name="tearDown" is-config="true" duration-ms="601" started-at="2020-01-25T17:25:39 IST" finished-at="2020-01-25T17:25:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.google.testcases.playMenuPageTest -->
+      <class name="com.qa.google.testcases.googleSearchMenuTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.google.testcases.googleSearchMenuTest@4b1c1ea0]" name="setup" is-config="true" duration-ms="9668" started-at="2020-01-25T17:21:53 IST" finished-at="2020-01-25T17:22:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyTitleTest()[pri:1, instance:com.qa.google.testcases.googleSearchMenuTest@4b1c1ea0]" name="verifyTitleTest" duration-ms="7" started-at="2020-01-25T17:22:03 IST" finished-at="2020-01-25T17:22:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.google.testcases.googleSearchMenuTest@4b1c1ea0]" name="tearDown" is-config="true" duration-ms="594" started-at="2020-01-25T17:22:03 IST" finished-at="2020-01-25T17:22:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.google.testcases.googleSearchMenuTest@4b1c1ea0]" name="setup" is-config="true" duration-ms="7557" started-at="2020-01-25T17:22:03 IST" finished-at="2020-01-25T17:22:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="checkGooglePage()[pri:2, instance:com.qa.google.testcases.googleSearchMenuTest@4b1c1ea0]" name="checkGooglePage" duration-ms="171" started-at="2020-01-25T17:22:11 IST" finished-at="2020-01-25T17:22:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkGooglePage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.google.testcases.googleSearchMenuTest@4b1c1ea0]" name="tearDown" is-config="true" duration-ms="591" started-at="2020-01-25T17:22:11 IST" finished-at="2020-01-25T17:22:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.google.testcases.googleSearchMenuTest@4b1c1ea0]" name="setup" is-config="true" duration-ms="8987" started-at="2020-01-25T17:22:12 IST" finished-at="2020-01-25T17:22:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="signInSerchPageTest()[pri:3, instance:com.qa.google.testcases.googleSearchMenuTest@4b1c1ea0]" name="signInSerchPageTest" duration-ms="15352" started-at="2020-01-25T17:22:21 IST" finished-at="2020-01-25T17:22:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signInSerchPageTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.google.testcases.googleSearchMenuTest@4b1c1ea0]" name="tearDown" is-config="true" duration-ms="618" started-at="2020-01-25T17:22:36 IST" finished-at="2020-01-25T17:22:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.google.testcases.googleSearchMenuTest -->
+      <class name="com.qa.google.testcases.googleProductPageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.google.testcases.googleProductPageTest@27a8c74e]" name="setup" is-config="true" duration-ms="7717" started-at="2020-01-25T17:28:00 IST" finished-at="2020-01-25T17:28:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="checkProductOfGoogle()[pri:1, instance:com.qa.google.testcases.googleProductPageTest@27a8c74e]" name="checkProductOfGoogle" duration-ms="12045" started-at="2020-01-25T17:28:07 IST" finished-at="2020-01-25T17:28:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkProductOfGoogle -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.google.testcases.googleProductPageTest@27a8c74e]" name="tearDown" is-config="true" duration-ms="644" started-at="2020-01-25T17:28:20 IST" finished-at="2020-01-25T17:28:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.google.testcases.googleProductPageTest -->
+      <class name="com.qa.google.testcases.newsMenuPageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.google.testcases.newsMenuPageTest@2833cc44]" name="setup" is-config="true" duration-ms="11058" started-at="2020-01-25T17:25:39 IST" finished-at="2020-01-25T17:25:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyTitleTest()[pri:1, instance:com.qa.google.testcases.newsMenuPageTest@2833cc44]" name="verifyTitleTest" duration-ms="10" started-at="2020-01-25T17:25:50 IST" finished-at="2020-01-25T17:25:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.google.testcases.newsMenuPageTest@2833cc44]" name="tearDown" is-config="true" duration-ms="707" started-at="2020-01-25T17:25:50 IST" finished-at="2020-01-25T17:25:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.google.testcases.newsMenuPageTest@2833cc44]" name="setup" is-config="true" duration-ms="13863" started-at="2020-01-25T17:25:51 IST" finished-at="2020-01-25T17:26:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="checkYoutubePage()[pri:2, instance:com.qa.google.testcases.newsMenuPageTest@2833cc44]" name="checkYoutubePage" duration-ms="101" started-at="2020-01-25T17:26:05 IST" finished-at="2020-01-25T17:26:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkYoutubePage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.google.testcases.newsMenuPageTest@2833cc44]" name="tearDown" is-config="true" duration-ms="624" started-at="2020-01-25T17:26:05 IST" finished-at="2020-01-25T17:26:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.google.testcases.newsMenuPageTest@2833cc44]" name="setup" is-config="true" duration-ms="10976" started-at="2020-01-25T17:26:05 IST" finished-at="2020-01-25T17:26:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="checkplayloginTest()[pri:3, instance:com.qa.google.testcases.newsMenuPageTest@2833cc44]" name="checkplayloginTest" duration-ms="15314" started-at="2020-01-25T17:26:16 IST" finished-at="2020-01-25T17:26:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkplayloginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.google.testcases.newsMenuPageTest@2833cc44]" name="tearDown" is-config="true" duration-ms="625" started-at="2020-01-25T17:26:32 IST" finished-at="2020-01-25T17:26:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.google.testcases.newsMenuPageTest -->
+      <class name="com.qa.google.testcases.gmailInboxPageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.google.testcases.gmailInboxPageTest@2d8f65a4]" name="setup" is-config="true" duration-ms="54673" started-at="2020-01-25T17:28:20 IST" finished-at="2020-01-25T17:29:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="countMailTest()[pri:1, instance:com.qa.google.testcases.gmailInboxPageTest@2d8f65a4]" name="countMailTest" duration-ms="60" started-at="2020-01-25T17:29:15 IST" finished-at="2020-01-25T17:29:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- countMailTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.google.testcases.gmailInboxPageTest@2d8f65a4]" name="tearDown" is-config="true" duration-ms="675" started-at="2020-01-25T17:29:15 IST" finished-at="2020-01-25T17:29:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.google.testcases.gmailInboxPageTest@2d8f65a4]" name="setup" is-config="true" duration-ms="58519" started-at="2020-01-25T17:29:16 IST" finished-at="2020-01-25T17:30:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="countStarMailTest()[pri:2, instance:com.qa.google.testcases.gmailInboxPageTest@2d8f65a4]" name="countStarMailTest" duration-ms="48" started-at="2020-01-25T17:30:14 IST" finished-at="2020-01-25T17:30:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- countStarMailTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.google.testcases.gmailInboxPageTest@2d8f65a4]" name="tearDown" is-config="true" duration-ms="683" started-at="2020-01-25T17:30:14 IST" finished-at="2020-01-25T17:30:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.google.testcases.gmailInboxPageTest@2d8f65a4]" name="setup" is-config="true" duration-ms="46031" started-at="2020-01-25T17:30:15 IST" finished-at="2020-01-25T17:31:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="countUnreadMailTest()[pri:3, instance:com.qa.google.testcases.gmailInboxPageTest@2d8f65a4]" name="countUnreadMailTest" duration-ms="53" started-at="2020-01-25T17:31:01 IST" finished-at="2020-01-25T17:31:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- countUnreadMailTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.google.testcases.gmailInboxPageTest@2d8f65a4]" name="tearDown" is-config="true" duration-ms="778" started-at="2020-01-25T17:31:01 IST" finished-at="2020-01-25T17:31:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.google.testcases.gmailInboxPageTest@2d8f65a4]" name="setup" is-config="true" duration-ms="42184" started-at="2020-01-25T17:31:02 IST" finished-at="2020-01-25T17:31:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="composebtnTest()[pri:4, instance:com.qa.google.testcases.gmailInboxPageTest@2d8f65a4]" name="composebtnTest" duration-ms="480" started-at="2020-01-25T17:31:44 IST" finished-at="2020-01-25T17:31:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- composebtnTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.google.testcases.gmailInboxPageTest@2d8f65a4]" name="tearDown" is-config="true" duration-ms="641" started-at="2020-01-25T17:31:44 IST" finished-at="2020-01-25T17:31:45 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.google.testcases.gmailInboxPageTest@2d8f65a4]" name="setup" is-config="true" duration-ms="40069" started-at="2020-01-25T17:31:45 IST" finished-at="2020-01-25T17:32:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="FAIL" signature="sentMailTest()[pri:5, instance:com.qa.google.testcases.gmailInboxPageTest@2d8f65a4]" name="sentMailTest" duration-ms="16075" started-at="2020-01-25T17:32:25 IST" finished-at="2020-01-25T17:32:41 IST">
+          <exception class="org.openqa.selenium.ElementNotInteractableException">
+            <message>
+              <![CDATA[element not interactable
+  (Session info: chrome=77.0.3865.75)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'MAHESH-PC', ip: '192.168.200.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 77.0.3865.75, chrome: {chromedriverVersion: 77.0.3865.40 (f484704e052e0..., userDataDir: C:\Users\Mahesh\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:51612}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: cc52ff839953333a1d3d54bde8bdc823]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=77.0.3865.75)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'MAHESH-PC', ip: '192.168.200.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 77.0.3865.75, chrome: {chromedriverVersion: 77.0.3865.40 (f484704e052e0..., userDataDir: C:\Users\Mahesh\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:51612}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: cc52ff839953333a1d3d54bde8bdc823
+at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+at java.lang.reflect.Constructor.newInstance(Unknown Source)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+at org.openqa.selenium.remote.RemoteWebElement.sendKeys(RemoteWebElement.java:106)
+at sun.reflect.GeneratedMethodAccessor13.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.lambda$new$0(EventFiringWebDriver.java:404)
+at com.sun.proxy.$Proxy12.sendKeys(Unknown Source)
+at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.sendKeys(EventFiringWebDriver.java:429)
+at sun.reflect.GeneratedMethodAccessor13.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)
+at com.sun.proxy.$Proxy11.sendKeys(Unknown Source)
+at com.qa.google.pages.gmailInboxPage.sendMail(gmailInboxPage.java:137)
+at com.qa.google.testcases.gmailInboxPageTest.sentMailTest(gmailInboxPageTest.java:69)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:584)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:172)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:804)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:145)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.util.ArrayList.forEach(Unknown Source)
+at org.testng.TestRunner.privateRun(TestRunner.java:770)
+at org.testng.TestRunner.run(TestRunner.java:591)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:402)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:396)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:355)
+at org.testng.SuiteRunner.run(SuiteRunner.java:304)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1180)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1102)
+at org.testng.TestNG.runSuites(TestNG.java:1032)
+at org.testng.TestNG.run(TestNG.java:1000)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.ElementNotInteractableException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sentMailTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.google.testcases.gmailInboxPageTest@2d8f65a4]" name="tearDown" is-config="true" duration-ms="704" started-at="2020-01-25T17:32:41 IST" finished-at="2020-01-25T17:32:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="FAIL" signature="setup()[pri:0, instance:com.qa.google.testcases.gmailInboxPageTest@2d8f65a4]" name="setup" is-config="true" duration-ms="54334" started-at="2020-01-25T17:32:42 IST" finished-at="2020-01-25T17:33:36 IST">
+          <exception class="org.openqa.selenium.TimeoutException">
+            <message>
+              <![CDATA[timeout
+  (Session info: chrome=77.0.3865.75)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'MAHESH-PC', ip: '192.168.200.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 77.0.3865.75, chrome: {chromedriverVersion: 77.0.3865.40 (f484704e052e0..., userDataDir: C:\Users\Mahesh\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:51682}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: fd57d6e0e846a59238e9498503814590
+*** Element info: {Using=xpath, value=//a[@title='Gmail']/img}]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.TimeoutException: timeout
+  (Session info: chrome=77.0.3865.75)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'MAHESH-PC', ip: '192.168.200.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 77.0.3865.75, chrome: {chromedriverVersion: 77.0.3865.40 (f484704e052e0..., userDataDir: C:\Users\Mahesh\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:51682}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: fd57d6e0e846a59238e9498503814590
+*** Element info: {Using=xpath, value=//a[@title='Gmail']/img}
+at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+at java.lang.reflect.Constructor.newInstance(Unknown Source)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
+at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+at sun.reflect.GeneratedMethodAccessor5.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.openqa.selenium.support.events.EventFiringWebDriver.lambda$new$1(EventFiringWebDriver.java:105)
+at com.sun.proxy.$Proxy7.findElement(Unknown Source)
+at org.openqa.selenium.support.events.EventFiringWebDriver.findElement(EventFiringWebDriver.java:194)
+at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+at com.sun.proxy.$Proxy11.isDisplayed(Unknown Source)
+at com.qa.google.pages.googleGmailMenuPage.signIntoGmail(googleGmailMenuPage.java:60)
+at com.qa.google.testcases.gmailInboxPageTest.setup(gmailInboxPageTest.java:37)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:62)
+at org.testng.internal.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:340)
+at org.testng.internal.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:294)
+at org.testng.internal.TestInvoker.runConfigMethods(TestInvoker.java:683)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:510)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:172)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:804)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:145)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.util.ArrayList.forEach(Unknown Source)
+at org.testng.TestRunner.privateRun(TestRunner.java:770)
+at org.testng.TestRunner.run(TestRunner.java:591)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:402)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:396)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:355)
+at org.testng.SuiteRunner.run(SuiteRunner.java:304)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1180)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1102)
+at org.testng.TestNG.runSuites(TestNG.java:1032)
+at org.testng.TestNG.run(TestNG.java:1000)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.TimeoutException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="SKIP" signature="serchInMail()[pri:6, instance:com.qa.google.testcases.gmailInboxPageTest@2d8f65a4]" name="serchInMail" duration-ms="0" started-at="2020-01-25T17:33:36 IST" finished-at="2020-01-25T17:33:36 IST">
+          <exception class="org.openqa.selenium.TimeoutException">
+            <message>
+              <![CDATA[timeout
+  (Session info: chrome=77.0.3865.75)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'MAHESH-PC', ip: '192.168.200.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 77.0.3865.75, chrome: {chromedriverVersion: 77.0.3865.40 (f484704e052e0..., userDataDir: C:\Users\Mahesh\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:51682}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: fd57d6e0e846a59238e9498503814590
+*** Element info: {Using=xpath, value=//a[@title='Gmail']/img}]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.TimeoutException: timeout
+  (Session info: chrome=77.0.3865.75)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'MAHESH-PC', ip: '192.168.200.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 77.0.3865.75, chrome: {chromedriverVersion: 77.0.3865.40 (f484704e052e0..., userDataDir: C:\Users\Mahesh\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:51682}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: fd57d6e0e846a59238e9498503814590
+*** Element info: {Using=xpath, value=//a[@title='Gmail']/img}
+at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+at java.lang.reflect.Constructor.newInstance(Unknown Source)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
+at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+at sun.reflect.GeneratedMethodAccessor5.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.openqa.selenium.support.events.EventFiringWebDriver.lambda$new$1(EventFiringWebDriver.java:105)
+at com.sun.proxy.$Proxy7.findElement(Unknown Source)
+at org.openqa.selenium.support.events.EventFiringWebDriver.findElement(EventFiringWebDriver.java:194)
+at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+at com.sun.proxy.$Proxy11.isDisplayed(Unknown Source)
+at com.qa.google.pages.googleGmailMenuPage.signIntoGmail(googleGmailMenuPage.java:60)
+at com.qa.google.testcases.gmailInboxPageTest.setup(gmailInboxPageTest.java:37)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:62)
+at org.testng.internal.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:340)
+at org.testng.internal.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:294)
+at org.testng.internal.TestInvoker.runConfigMethods(TestInvoker.java:683)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:510)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:172)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:804)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:145)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.util.ArrayList.forEach(Unknown Source)
+at org.testng.TestRunner.privateRun(TestRunner.java:770)
+at org.testng.TestRunner.run(TestRunner.java:591)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:402)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:396)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:355)
+at org.testng.SuiteRunner.run(SuiteRunner.java:304)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1180)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1102)
+at org.testng.TestNG.runSuites(TestNG.java:1032)
+at org.testng.TestNG.run(TestNG.java:1000)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.TimeoutException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- serchInMail -->
+        <test-method status="SKIP" signature="tearDown()[pri:0, instance:com.qa.google.testcases.gmailInboxPageTest@2d8f65a4]" name="tearDown" is-config="true" duration-ms="-1579953816699" started-at="2020-01-25T17:33:36 IST" finished-at="1970-01-01T05:30:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="SKIP" signature="countAttachmentMailTest()[pri:7, instance:com.qa.google.testcases.gmailInboxPageTest@2d8f65a4]" name="countAttachmentMailTest" duration-ms="0" started-at="2020-01-25T17:33:36 IST" finished-at="2020-01-25T17:33:36 IST">
+          <exception class="org.openqa.selenium.TimeoutException">
+            <message>
+              <![CDATA[timeout
+  (Session info: chrome=77.0.3865.75)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'MAHESH-PC', ip: '192.168.200.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 77.0.3865.75, chrome: {chromedriverVersion: 77.0.3865.40 (f484704e052e0..., userDataDir: C:\Users\Mahesh\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:51682}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: fd57d6e0e846a59238e9498503814590
+*** Element info: {Using=xpath, value=//a[@title='Gmail']/img}]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.TimeoutException: timeout
+  (Session info: chrome=77.0.3865.75)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'MAHESH-PC', ip: '192.168.200.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 77.0.3865.75, chrome: {chromedriverVersion: 77.0.3865.40 (f484704e052e0..., userDataDir: C:\Users\Mahesh\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:51682}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: fd57d6e0e846a59238e9498503814590
+*** Element info: {Using=xpath, value=//a[@title='Gmail']/img}
+at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+at java.lang.reflect.Constructor.newInstance(Unknown Source)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
+at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+at sun.reflect.GeneratedMethodAccessor5.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.openqa.selenium.support.events.EventFiringWebDriver.lambda$new$1(EventFiringWebDriver.java:105)
+at com.sun.proxy.$Proxy7.findElement(Unknown Source)
+at org.openqa.selenium.support.events.EventFiringWebDriver.findElement(EventFiringWebDriver.java:194)
+at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+at com.sun.proxy.$Proxy11.isDisplayed(Unknown Source)
+at com.qa.google.pages.googleGmailMenuPage.signIntoGmail(googleGmailMenuPage.java:60)
+at com.qa.google.testcases.gmailInboxPageTest.setup(gmailInboxPageTest.java:37)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:62)
+at org.testng.internal.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:340)
+at org.testng.internal.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:294)
+at org.testng.internal.TestInvoker.runConfigMethods(TestInvoker.java:683)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:510)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:172)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:804)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:145)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.util.ArrayList.forEach(Unknown Source)
+at org.testng.TestRunner.privateRun(TestRunner.java:770)
+at org.testng.TestRunner.run(TestRunner.java:591)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:402)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:396)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:355)
+at org.testng.SuiteRunner.run(SuiteRunner.java:304)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1180)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1102)
+at org.testng.TestNG.runSuites(TestNG.java:1032)
+at org.testng.TestNG.run(TestNG.java:1000)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.TimeoutException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- countAttachmentMailTest -->
+        <test-method status="SKIP" signature="setup()[pri:0, instance:com.qa.google.testcases.gmailInboxPageTest@2d8f65a4]" name="setup" is-config="true" duration-ms="-1579953816700" started-at="2020-01-25T17:33:36 IST" finished-at="1970-01-01T05:30:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="SKIP" signature="tearDown()[pri:0, instance:com.qa.google.testcases.gmailInboxPageTest@2d8f65a4]" name="tearDown" is-config="true" duration-ms="-1579953816710" started-at="2020-01-25T17:33:36 IST" finished-at="1970-01-01T05:30:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="SKIP" signature="setup()[pri:0, instance:com.qa.google.testcases.gmailInboxPageTest@2d8f65a4]" name="setup" is-config="true" duration-ms="-1579953816711" started-at="2020-01-25T17:33:36 IST" finished-at="1970-01-01T05:30:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="SKIP" signature="settingPageTest()[pri:8, instance:com.qa.google.testcases.gmailInboxPageTest@2d8f65a4]" name="settingPageTest" duration-ms="0" started-at="2020-01-25T17:33:36 IST" finished-at="2020-01-25T17:33:36 IST">
+          <exception class="org.openqa.selenium.TimeoutException">
+            <message>
+              <![CDATA[timeout
+  (Session info: chrome=77.0.3865.75)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'MAHESH-PC', ip: '192.168.200.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 77.0.3865.75, chrome: {chromedriverVersion: 77.0.3865.40 (f484704e052e0..., userDataDir: C:\Users\Mahesh\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:51682}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: fd57d6e0e846a59238e9498503814590
+*** Element info: {Using=xpath, value=//a[@title='Gmail']/img}]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.TimeoutException: timeout
+  (Session info: chrome=77.0.3865.75)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'MAHESH-PC', ip: '192.168.200.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 77.0.3865.75, chrome: {chromedriverVersion: 77.0.3865.40 (f484704e052e0..., userDataDir: C:\Users\Mahesh\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:51682}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: fd57d6e0e846a59238e9498503814590
+*** Element info: {Using=xpath, value=//a[@title='Gmail']/img}
+at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+at java.lang.reflect.Constructor.newInstance(Unknown Source)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
+at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+at sun.reflect.GeneratedMethodAccessor5.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.openqa.selenium.support.events.EventFiringWebDriver.lambda$new$1(EventFiringWebDriver.java:105)
+at com.sun.proxy.$Proxy7.findElement(Unknown Source)
+at org.openqa.selenium.support.events.EventFiringWebDriver.findElement(EventFiringWebDriver.java:194)
+at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+at com.sun.proxy.$Proxy11.isDisplayed(Unknown Source)
+at com.qa.google.pages.googleGmailMenuPage.signIntoGmail(googleGmailMenuPage.java:60)
+at com.qa.google.testcases.gmailInboxPageTest.setup(gmailInboxPageTest.java:37)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:62)
+at org.testng.internal.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:340)
+at org.testng.internal.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:294)
+at org.testng.internal.TestInvoker.runConfigMethods(TestInvoker.java:683)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:510)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:172)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:804)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:145)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.util.ArrayList.forEach(Unknown Source)
+at org.testng.TestRunner.privateRun(TestRunner.java:770)
+at org.testng.TestRunner.run(TestRunner.java:591)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:402)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:396)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:355)
+at org.testng.SuiteRunner.run(SuiteRunner.java:304)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1180)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1102)
+at org.testng.TestNG.runSuites(TestNG.java:1032)
+at org.testng.TestNG.run(TestNG.java:1000)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.TimeoutException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- settingPageTest -->
+        <test-method status="SKIP" signature="tearDown()[pri:0, instance:com.qa.google.testcases.gmailInboxPageTest@2d8f65a4]" name="tearDown" is-config="true" duration-ms="-1579953816729" started-at="2020-01-25T17:33:36 IST" finished-at="1970-01-01T05:30:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="SKIP" signature="setup()[pri:0, instance:com.qa.google.testcases.gmailInboxPageTest@2d8f65a4]" name="setup" is-config="true" duration-ms="-1579953816730" started-at="2020-01-25T17:33:36 IST" finished-at="1970-01-01T05:30:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="SKIP" signature="createNewLabelTest()[pri:9, instance:com.qa.google.testcases.gmailInboxPageTest@2d8f65a4]" name="createNewLabelTest" duration-ms="0" started-at="2020-01-25T17:33:36 IST" finished-at="2020-01-25T17:33:36 IST">
+          <exception class="org.openqa.selenium.TimeoutException">
+            <message>
+              <![CDATA[timeout
+  (Session info: chrome=77.0.3865.75)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'MAHESH-PC', ip: '192.168.200.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 77.0.3865.75, chrome: {chromedriverVersion: 77.0.3865.40 (f484704e052e0..., userDataDir: C:\Users\Mahesh\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:51682}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: fd57d6e0e846a59238e9498503814590
+*** Element info: {Using=xpath, value=//a[@title='Gmail']/img}]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.TimeoutException: timeout
+  (Session info: chrome=77.0.3865.75)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'MAHESH-PC', ip: '192.168.200.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 77.0.3865.75, chrome: {chromedriverVersion: 77.0.3865.40 (f484704e052e0..., userDataDir: C:\Users\Mahesh\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:51682}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: fd57d6e0e846a59238e9498503814590
+*** Element info: {Using=xpath, value=//a[@title='Gmail']/img}
+at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+at java.lang.reflect.Constructor.newInstance(Unknown Source)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
+at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+at sun.reflect.GeneratedMethodAccessor5.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.openqa.selenium.support.events.EventFiringWebDriver.lambda$new$1(EventFiringWebDriver.java:105)
+at com.sun.proxy.$Proxy7.findElement(Unknown Source)
+at org.openqa.selenium.support.events.EventFiringWebDriver.findElement(EventFiringWebDriver.java:194)
+at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+at com.sun.proxy.$Proxy11.isDisplayed(Unknown Source)
+at com.qa.google.pages.googleGmailMenuPage.signIntoGmail(googleGmailMenuPage.java:60)
+at com.qa.google.testcases.gmailInboxPageTest.setup(gmailInboxPageTest.java:37)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:62)
+at org.testng.internal.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:340)
+at org.testng.internal.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:294)
+at org.testng.internal.TestInvoker.runConfigMethods(TestInvoker.java:683)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:510)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:172)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:804)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:145)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.util.ArrayList.forEach(Unknown Source)
+at org.testng.TestRunner.privateRun(TestRunner.java:770)
+at org.testng.TestRunner.run(TestRunner.java:591)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:402)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:396)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:355)
+at org.testng.SuiteRunner.run(SuiteRunner.java:304)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1180)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1102)
+at org.testng.TestNG.runSuites(TestNG.java:1032)
+at org.testng.TestNG.run(TestNG.java:1000)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.TimeoutException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createNewLabelTest -->
+        <test-method status="SKIP" signature="tearDown()[pri:0, instance:com.qa.google.testcases.gmailInboxPageTest@2d8f65a4]" name="tearDown" is-config="true" duration-ms="-1579953816736" started-at="2020-01-25T17:33:36 IST" finished-at="1970-01-01T05:30:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="SKIP" signature="setup()[pri:0, instance:com.qa.google.testcases.gmailInboxPageTest@2d8f65a4]" name="setup" is-config="true" duration-ms="-1579953816739" started-at="2020-01-25T17:33:36 IST" finished-at="1970-01-01T05:30:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="SKIP" signature="moveToLabel()[pri:10, instance:com.qa.google.testcases.gmailInboxPageTest@2d8f65a4]" name="moveToLabel" duration-ms="0" started-at="2020-01-25T17:33:36 IST" finished-at="2020-01-25T17:33:36 IST">
+          <exception class="org.openqa.selenium.TimeoutException">
+            <message>
+              <![CDATA[timeout
+  (Session info: chrome=77.0.3865.75)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'MAHESH-PC', ip: '192.168.200.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 77.0.3865.75, chrome: {chromedriverVersion: 77.0.3865.40 (f484704e052e0..., userDataDir: C:\Users\Mahesh\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:51682}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: fd57d6e0e846a59238e9498503814590
+*** Element info: {Using=xpath, value=//a[@title='Gmail']/img}]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.TimeoutException: timeout
+  (Session info: chrome=77.0.3865.75)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'MAHESH-PC', ip: '192.168.200.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 77.0.3865.75, chrome: {chromedriverVersion: 77.0.3865.40 (f484704e052e0..., userDataDir: C:\Users\Mahesh\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:51682}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: fd57d6e0e846a59238e9498503814590
+*** Element info: {Using=xpath, value=//a[@title='Gmail']/img}
+at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+at java.lang.reflect.Constructor.newInstance(Unknown Source)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
+at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+at sun.reflect.GeneratedMethodAccessor5.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.openqa.selenium.support.events.EventFiringWebDriver.lambda$new$1(EventFiringWebDriver.java:105)
+at com.sun.proxy.$Proxy7.findElement(Unknown Source)
+at org.openqa.selenium.support.events.EventFiringWebDriver.findElement(EventFiringWebDriver.java:194)
+at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+at com.sun.proxy.$Proxy11.isDisplayed(Unknown Source)
+at com.qa.google.pages.googleGmailMenuPage.signIntoGmail(googleGmailMenuPage.java:60)
+at com.qa.google.testcases.gmailInboxPageTest.setup(gmailInboxPageTest.java:37)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:62)
+at org.testng.internal.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:340)
+at org.testng.internal.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:294)
+at org.testng.internal.TestInvoker.runConfigMethods(TestInvoker.java:683)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:510)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:172)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:804)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:145)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.util.ArrayList.forEach(Unknown Source)
+at org.testng.TestRunner.privateRun(TestRunner.java:770)
+at org.testng.TestRunner.run(TestRunner.java:591)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:402)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:396)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:355)
+at org.testng.SuiteRunner.run(SuiteRunner.java:304)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1180)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1102)
+at org.testng.TestNG.runSuites(TestNG.java:1032)
+at org.testng.TestNG.run(TestNG.java:1000)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.TimeoutException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- moveToLabel -->
+        <test-method status="SKIP" signature="tearDown()[pri:0, instance:com.qa.google.testcases.gmailInboxPageTest@2d8f65a4]" name="tearDown" is-config="true" duration-ms="-1579953816754" started-at="2020-01-25T17:33:36 IST" finished-at="1970-01-01T05:30:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="SKIP" signature="setup()[pri:0, instance:com.qa.google.testcases.gmailInboxPageTest@2d8f65a4]" name="setup" is-config="true" duration-ms="-1579953816755" started-at="2020-01-25T17:33:36 IST" finished-at="1970-01-01T05:30:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="SKIP" signature="signOutTest()[pri:11, instance:com.qa.google.testcases.gmailInboxPageTest@2d8f65a4]" name="signOutTest" duration-ms="0" started-at="2020-01-25T17:33:36 IST" finished-at="2020-01-25T17:33:36 IST">
+          <exception class="org.openqa.selenium.TimeoutException">
+            <message>
+              <![CDATA[timeout
+  (Session info: chrome=77.0.3865.75)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'MAHESH-PC', ip: '192.168.200.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 77.0.3865.75, chrome: {chromedriverVersion: 77.0.3865.40 (f484704e052e0..., userDataDir: C:\Users\Mahesh\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:51682}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: fd57d6e0e846a59238e9498503814590
+*** Element info: {Using=xpath, value=//a[@title='Gmail']/img}]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.TimeoutException: timeout
+  (Session info: chrome=77.0.3865.75)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'MAHESH-PC', ip: '192.168.200.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 77.0.3865.75, chrome: {chromedriverVersion: 77.0.3865.40 (f484704e052e0..., userDataDir: C:\Users\Mahesh\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:51682}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: fd57d6e0e846a59238e9498503814590
+*** Element info: {Using=xpath, value=//a[@title='Gmail']/img}
+at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+at java.lang.reflect.Constructor.newInstance(Unknown Source)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
+at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+at sun.reflect.GeneratedMethodAccessor5.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.openqa.selenium.support.events.EventFiringWebDriver.lambda$new$1(EventFiringWebDriver.java:105)
+at com.sun.proxy.$Proxy7.findElement(Unknown Source)
+at org.openqa.selenium.support.events.EventFiringWebDriver.findElement(EventFiringWebDriver.java:194)
+at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+at com.sun.proxy.$Proxy11.isDisplayed(Unknown Source)
+at com.qa.google.pages.googleGmailMenuPage.signIntoGmail(googleGmailMenuPage.java:60)
+at com.qa.google.testcases.gmailInboxPageTest.setup(gmailInboxPageTest.java:37)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:62)
+at org.testng.internal.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:340)
+at org.testng.internal.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:294)
+at org.testng.internal.TestInvoker.runConfigMethods(TestInvoker.java:683)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:510)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:172)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:804)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:145)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.util.ArrayList.forEach(Unknown Source)
+at org.testng.TestRunner.privateRun(TestRunner.java:770)
+at org.testng.TestRunner.run(TestRunner.java:591)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:402)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:396)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:355)
+at org.testng.SuiteRunner.run(SuiteRunner.java:304)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1180)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1102)
+at org.testng.TestNG.runSuites(TestNG.java:1032)
+at org.testng.TestNG.run(TestNG.java:1000)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.TimeoutException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signOutTest -->
+        <test-method status="SKIP" signature="tearDown()[pri:0, instance:com.qa.google.testcases.gmailInboxPageTest@2d8f65a4]" name="tearDown" is-config="true" duration-ms="-1579953816757" started-at="2020-01-25T17:33:36 IST" finished-at="1970-01-01T05:30:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.google.testcases.gmailInboxPageTest -->
+      <class name="com.qa.google.testcases.GmailMenuPageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.google.testcases.GmailMenuPageTest@33f88ab]" name="setup" is-config="true" duration-ms="13229" started-at="2020-01-25T17:26:32 IST" finished-at="2020-01-25T17:26:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyTitleTest()[pri:1, instance:com.qa.google.testcases.GmailMenuPageTest@33f88ab]" name="verifyTitleTest" duration-ms="11" started-at="2020-01-25T17:26:46 IST" finished-at="2020-01-25T17:26:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.google.testcases.GmailMenuPageTest@33f88ab]" name="tearDown" is-config="true" duration-ms="646" started-at="2020-01-25T17:26:46 IST" finished-at="2020-01-25T17:26:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.google.testcases.GmailMenuPageTest@33f88ab]" name="setup" is-config="true" duration-ms="16218" started-at="2020-01-25T17:26:46 IST" finished-at="2020-01-25T17:27:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="checkGmailPage()[pri:2, instance:com.qa.google.testcases.GmailMenuPageTest@33f88ab]" name="checkGmailPage" duration-ms="44" started-at="2020-01-25T17:27:03 IST" finished-at="2020-01-25T17:27:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkGmailPage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.google.testcases.GmailMenuPageTest@33f88ab]" name="tearDown" is-config="true" duration-ms="658" started-at="2020-01-25T17:27:03 IST" finished-at="2020-01-25T17:27:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.google.testcases.GmailMenuPageTest@33f88ab]" name="setup" is-config="true" duration-ms="15219" started-at="2020-01-25T17:27:03 IST" finished-at="2020-01-25T17:27:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="checkpgmialloginTest()[pri:3, instance:com.qa.google.testcases.GmailMenuPageTest@33f88ab]" name="checkpgmialloginTest" duration-ms="40655" started-at="2020-01-25T17:27:18 IST" finished-at="2020-01-25T17:27:59 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkpgmialloginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.google.testcases.GmailMenuPageTest@33f88ab]" name="tearDown" is-config="true" duration-ms="683" started-at="2020-01-25T17:27:59 IST" finished-at="2020-01-25T17:28:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.google.testcases.GmailMenuPageTest -->
+      <class name="com.qa.google.testcases.accountMenuPageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.google.testcases.accountMenuPageTest@6acdbdf5]" name="setup" is-config="true" duration-ms="11921" started-at="2020-01-25T17:21:02 IST" finished-at="2020-01-25T17:21:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyTitleTest()[pri:1, instance:com.qa.google.testcases.accountMenuPageTest@6acdbdf5]" name="verifyTitleTest" duration-ms="15" started-at="2020-01-25T17:21:14 IST" finished-at="2020-01-25T17:21:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.google.testcases.accountMenuPageTest@6acdbdf5]" name="tearDown" is-config="true" duration-ms="619" started-at="2020-01-25T17:21:14 IST" finished-at="2020-01-25T17:21:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.google.testcases.accountMenuPageTest@6acdbdf5]" name="setup" is-config="true" duration-ms="12788" started-at="2020-01-25T17:21:15 IST" finished-at="2020-01-25T17:21:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifygoogleAccountTest()[pri:2, instance:com.qa.google.testcases.accountMenuPageTest@6acdbdf5]" name="verifygoogleAccountTest" duration-ms="67" started-at="2020-01-25T17:21:28 IST" finished-at="2020-01-25T17:21:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifygoogleAccountTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.google.testcases.accountMenuPageTest@6acdbdf5]" name="tearDown" is-config="true" duration-ms="690" started-at="2020-01-25T17:21:28 IST" finished-at="2020-01-25T17:21:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.google.testcases.accountMenuPageTest@6acdbdf5]" name="setup" is-config="true" duration-ms="11108" started-at="2020-01-25T17:21:29 IST" finished-at="2020-01-25T17:21:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyaccountLogin()[pri:3, instance:com.qa.google.testcases.accountMenuPageTest@6acdbdf5]" name="verifyaccountLogin" duration-ms="12940" started-at="2020-01-25T17:21:40 IST" finished-at="2020-01-25T17:21:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyaccountLogin -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.google.testcases.accountMenuPageTest@6acdbdf5]" name="tearDown" is-config="true" duration-ms="629" started-at="2020-01-25T17:21:53 IST" finished-at="2020-01-25T17:21:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.google.testcases.accountMenuPageTest -->
+      <class name="com.qa.google.testcases.mapMenuPageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.google.testcases.mapMenuPageTest@17579e0f]" name="setup" is-config="true" duration-ms="15705" started-at="2020-01-25T17:22:37 IST" finished-at="2020-01-25T17:22:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyTitleTest()[pri:1, instance:com.qa.google.testcases.mapMenuPageTest@17579e0f]" name="verifyTitleTest" duration-ms="20" started-at="2020-01-25T17:22:52 IST" finished-at="2020-01-25T17:22:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.google.testcases.mapMenuPageTest@17579e0f]" name="tearDown" is-config="true" duration-ms="597" started-at="2020-01-25T17:22:52 IST" finished-at="2020-01-25T17:22:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.google.testcases.mapMenuPageTest@17579e0f]" name="setup" is-config="true" duration-ms="11474" started-at="2020-01-25T17:22:53 IST" finished-at="2020-01-25T17:23:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="checkGooglePage()[pri:2, instance:com.qa.google.testcases.mapMenuPageTest@17579e0f]" name="checkGooglePage" duration-ms="66" started-at="2020-01-25T17:23:05 IST" finished-at="2020-01-25T17:23:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkGooglePage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.google.testcases.mapMenuPageTest@17579e0f]" name="tearDown" is-config="true" duration-ms="607" started-at="2020-01-25T17:23:05 IST" finished-at="2020-01-25T17:23:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.google.testcases.mapMenuPageTest@17579e0f]" name="setup" is-config="true" duration-ms="10419" started-at="2020-01-25T17:23:05 IST" finished-at="2020-01-25T17:23:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="checkoginTest()[pri:3, instance:com.qa.google.testcases.mapMenuPageTest@17579e0f]" name="checkoginTest" duration-ms="27340" started-at="2020-01-25T17:23:16 IST" finished-at="2020-01-25T17:23:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkoginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.google.testcases.mapMenuPageTest@17579e0f]" name="tearDown" is-config="true" duration-ms="606" started-at="2020-01-25T17:23:43 IST" finished-at="2020-01-25T17:23:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.google.testcases.mapMenuPageTest -->
+      <class name="com.qa.google.testcases.youtubePageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.google.testcases.youtubePageTest@4d41cee]" name="setup" is-config="true" duration-ms="15699" started-at="2020-01-25T17:23:44 IST" finished-at="2020-01-25T17:23:59 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyTitleTest()[pri:1, instance:com.qa.google.testcases.youtubePageTest@4d41cee]" name="verifyTitleTest" duration-ms="33" started-at="2020-01-25T17:23:59 IST" finished-at="2020-01-25T17:23:59 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.google.testcases.youtubePageTest@4d41cee]" name="tearDown" is-config="true" duration-ms="656" started-at="2020-01-25T17:23:59 IST" finished-at="2020-01-25T17:24:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.google.testcases.youtubePageTest@4d41cee]" name="setup" is-config="true" duration-ms="12707" started-at="2020-01-25T17:24:00 IST" finished-at="2020-01-25T17:24:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="checkYoutubePage()[pri:2, instance:com.qa.google.testcases.youtubePageTest@4d41cee]" name="checkYoutubePage" duration-ms="232" started-at="2020-01-25T17:24:13 IST" finished-at="2020-01-25T17:24:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkYoutubePage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.google.testcases.youtubePageTest@4d41cee]" name="tearDown" is-config="true" duration-ms="764" started-at="2020-01-25T17:24:13 IST" finished-at="2020-01-25T17:24:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.google.testcases.youtubePageTest@4d41cee]" name="setup" is-config="true" duration-ms="13848" started-at="2020-01-25T17:24:14 IST" finished-at="2020-01-25T17:24:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="checkYouTubeloginTest()[pri:3, instance:com.qa.google.testcases.youtubePageTest@4d41cee]" name="checkYouTubeloginTest" duration-ms="22469" started-at="2020-01-25T17:24:28 IST" finished-at="2020-01-25T17:24:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkYouTubeloginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.google.testcases.youtubePageTest@4d41cee]" name="tearDown" is-config="true" duration-ms="683" started-at="2020-01-25T17:24:50 IST" finished-at="2020-01-25T17:24:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.google.testcases.youtubePageTest -->
+      <class name="com.qa.google.testcases.gridMenuPageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.google.testcases.gridMenuPageTest@15d0c81b]" name="setup" is-config="true" duration-ms="7274" started-at="2020-01-25T17:20:54 IST" finished-at="2020-01-25T17:21:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="GridBtnTest()[pri:1, instance:com.qa.google.testcases.gridMenuPageTest@15d0c81b]" name="GridBtnTest" duration-ms="713" started-at="2020-01-25T17:21:01 IST" finished-at="2020-01-25T17:21:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GridBtnTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.google.testcases.gridMenuPageTest@15d0c81b]" name="tearDown" is-config="true" duration-ms="624" started-at="2020-01-25T17:21:02 IST" finished-at="2020-01-25T17:21:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.google.testcases.gridMenuPageTest -->
+      <class name="com.qa.google.testcases.GoogleSearchPageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.google.testcases.GoogleSearchPageTest@74650e52]" name="setup" is-config="true" duration-ms="7624" started-at="2020-01-25T17:20:21 IST" finished-at="2020-01-25T17:20:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="homePageTest()[pri:1, instance:com.qa.google.testcases.GoogleSearchPageTest@74650e52]" name="homePageTest" duration-ms="305" started-at="2020-01-25T17:20:28 IST" finished-at="2020-01-25T17:20:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePageTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.google.testcases.GoogleSearchPageTest@74650e52]" name="tearDown" is-config="true" duration-ms="607" started-at="2020-01-25T17:20:29 IST" finished-at="2020-01-25T17:20:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.google.testcases.GoogleSearchPageTest@74650e52]" name="setup" is-config="true" duration-ms="6502" started-at="2020-01-25T17:20:29 IST" finished-at="2020-01-25T17:20:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="checkLanguage()[pri:2, instance:com.qa.google.testcases.GoogleSearchPageTest@74650e52]" name="checkLanguage" duration-ms="2622" started-at="2020-01-25T17:20:36 IST" finished-at="2020-01-25T17:20:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkLanguage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.google.testcases.GoogleSearchPageTest@74650e52]" name="tearDown" is-config="true" duration-ms="652" started-at="2020-01-25T17:20:39 IST" finished-at="2020-01-25T17:20:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.google.testcases.GoogleSearchPageTest@74650e52]" name="setup" is-config="true" duration-ms="7677" started-at="2020-01-25T17:20:39 IST" finished-at="2020-01-25T17:20:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="serachOpeartion()[pri:3, instance:com.qa.google.testcases.GoogleSearchPageTest@74650e52]" name="serachOpeartion" duration-ms="6286" started-at="2020-01-25T17:20:47 IST" finished-at="2020-01-25T17:20:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- serachOpeartion -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.google.testcases.GoogleSearchPageTest@74650e52]" name="tearDown" is-config="true" duration-ms="656" started-at="2020-01-25T17:20:53 IST" finished-at="2020-01-25T17:20:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.google.testcases.GoogleSearchPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
